@@ -66,7 +66,7 @@ $(document).ready(function(){
 				color:"red"
 			})
 			setTimeout(function(){
-			alert("duq sxalvecik")
+			alert(count+"/16")
 			location.reload()
 			},60)
 			
